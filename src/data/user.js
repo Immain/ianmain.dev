@@ -14,7 +14,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Hey! 👋 I’m Ian, Cybersecurity Analyst and Full Stack Developer.",
+		title: "Hey! 👋 I’m Ian, Cybersecurity Analyst and System Administrator.",
 		description:
 			"As a highly motivated and detail-oriented Cyber Security Analyst, I have a passion for staying ahead of the curve in the ever-evolving world of cybersecurity. Over the last three years I have developed a strong foundation in security principles, threat analysis, and incident response. My expertise spans a wide range of areas, including network security, vulnerability assessment, penetration testing, and compliance.",
 	},
